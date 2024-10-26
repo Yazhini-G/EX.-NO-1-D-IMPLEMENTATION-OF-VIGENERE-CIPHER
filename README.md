@@ -60,7 +60,8 @@ if __name__ == "__main__":
 		originalText(cipher_text, key))
 ```
 ## OUTPUT:
-![331219484-7d87ef69-3d96-498f-a54a-b4a8706216ac](https://github.com/user-attachments/assets/e99f078a-e380-4d54-a677-b1a1cd214e9e)
+![Screenshot 2024-10-26 134244](https://github.com/user-attachments/assets/66625dc0-47f7-44de-8155-c5bf63ec3485)
+
 
 ## RESULT:
   Thus the Vigenere Cipher substitution technique had been implemented successfully.
